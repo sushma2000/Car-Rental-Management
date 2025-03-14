@@ -1,6 +1,5 @@
 # Car-Rental-Management
 
-## Overview
 
 The "Rent a Car" project is a comprehensive system designed to manage car rental services. It allows customers to reserve and rent cars based on their preferences and facilitates the management of car inventory, reservations, and customer information
 
